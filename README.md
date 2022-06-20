@@ -1,6 +1,8 @@
 # Container-based daily-reward automatic "clicker"
 Forked from https://github.com/paimooon/Daily-Reward
+
 Docker image (alpine based ~20MiB) c15u/genshin-adr-min
+
 Additionally changed language from kr-kr to en-us
 
 ## Usage
