@@ -16,13 +16,5 @@ docker run -it -e LTOKEN=<YOUR_TOKEN> -e LTUID=<YOUR_LTUID> --name genshin-adr-m
 0 6 * * * docker start genshin-adr-min-c15u
 ```
 
-
-# Daily-Reward
-## How to use
-
-1. Fork this repository.
-1. Go to Settings->Secrets.
-1. Add your "LTUID" and "LTOKEN".
-
 ## Reference
 [thesadru/genshinstats](https://github.com/thesadru/genshinstats)
